@@ -15,7 +15,7 @@
   "legend": {
     "edgeLabel": "POAP Collected",
     "colorLabel": "Number of connections made",
-    "nodeLabel": "POAP Issuers and Collectors"
+    "nodeLabel": "POAP-ENS Card Holders and Collectors"
   },
   "features": {
     "search": true,
